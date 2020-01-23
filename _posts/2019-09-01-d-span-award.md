@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
-bigimg: /img/path.jpg
+title: NIH D-SPAN F99/K00
+subtitle: 
+bigimg: /img/d-span-logo.png
 tags: [books, test]
 ---
 
