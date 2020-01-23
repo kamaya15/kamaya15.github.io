@@ -2,7 +2,7 @@
 layout: post
 title: NIH D-SPAN F99/K00
 subtitle: 
-bigimg: /img/d-span-logo.png
+img: /img/d-span-logo.png
 tags:
 ---
 
